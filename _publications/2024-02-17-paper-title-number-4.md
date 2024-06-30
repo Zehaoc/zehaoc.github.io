@@ -1,10 +1,10 @@
 ---
-title: "Indoor lighting estimation using an event camera"
+title: "Indoor Lighting Estimation Using an Event Camera"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper'
 date: 2021-06-17
-venue: 'GitHub Journal of Bugs'
+venue: 'CVPR'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Indoor_Lighting_Estimation_Using_an_Event_Camera_CVPR_2021_paper.pdf'
 citation: 'Chen, Zehao, et al. "Indoor lighting estimation using an event camera." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021.'
 ---
