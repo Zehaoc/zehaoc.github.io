@@ -1,7 +1,7 @@
 ---
 title: "Indoor Lighting Estimation Using an Event Camera"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/Indoor_Lighting_Estimation_Using_an_Event_Camera
 excerpt: 'This paper'
 date: 2021-06-17
 venue: 'CVPR'
