@@ -22,11 +22,11 @@ repository               : "Zhaoc/zehaoc.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zehao"
+  name             : "Zehao Chen"
   pronouns         : # example: "she/her"  
   bio              : "Short biography"
-  location         : "Hangzhou, Zhejiang, China"
-  employer         : "Zhejiang University"
+  location         : "Zhejiang University"
+  # employer         : "Zhejiang University"
   uri              : # URL
   # email            : "none@example.org" 
 
