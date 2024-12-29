@@ -3,7 +3,7 @@ title: "Indoor Lighting Estimation Using an Event Camera"
 collection: publications
 permalink: /publication/Indoor_Lighting_Estimation_Using_an_Event_Camera
 excerpt: 'This paper'
-# date: 2021-06-17
+date: 2021-06-17
 venue: 'CVPR'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Indoor_Lighting_Estimation_Using_an_Event_Camera_CVPR_2021_paper.pdf'
 citation: 'Chen, Zehao, et al. "Indoor lighting estimation using an event camera." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021.'
